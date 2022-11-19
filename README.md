@@ -1,6 +1,6 @@
-# Greed is Glory
+# Greed is Gory
 
-Welcome to Greed is Glory, a new and innovating maze game, which punishes you for greed. 
+Welcome to Greed is Gory, a new and innovating maze game, which punishes you for greed. 
 
 #Running Code 
 Either access the website by Github Pages, or simply clone the repository and run index.html in a local web server--no external libraries will need to be downloaded locally. 
