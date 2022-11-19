@@ -8,7 +8,7 @@ Either access the website by Github Pages, or simply clone the repository and ru
 
 #How to Play 
 The game is pretty intuitive: 
-You are the red orb which starts in the bottom-left corner, and you have to work your way through to the top-right corner, which is the exit. Your goal is to accumulate the maximum number of points. 
+You are the red orb which starts in the bottom-left corner (which moves with arrow keys), and you have to work your way through to the top-right corner, which is the exit. Your goal is to accumulate the maximum number of points. 
 
 Simply making it to the exit is worth 8 points; however, throughout the maze, there are various point value tiles (which you get when you step on them). 
 
@@ -17,6 +17,8 @@ one of the initially open walls will randomly close (which means you may be stuc
 you'll be able to get more points. 
 
 Also note that there is a black cloud of smoke covering most of your path, meaning that if you get greedy and choose a boundary, one of the intersections closing may mean that the route to the end is much more difficult. 
+
+NOTE: If there's no sound coming from wall collisions, click on the screen and it should be fixed. 
 
 
 #Steps needed to create 
